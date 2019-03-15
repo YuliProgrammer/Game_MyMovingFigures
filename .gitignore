@@ -1,0 +1,6 @@
+*.iml
+.idea/
+javafx-sdk-11.0.2/
+out/
+bin/
+
